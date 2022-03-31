@@ -5,7 +5,6 @@
 <p><b>"HARD WORK BEATS TALENT WHEN TALENT DOESN’T WORK HARD"</b> (By Tim Notke). Well with this quote, let me introduce myself. This is Chandan Choudhury and I’ve a passion for creating something new. I really enjoy exploring on a variety of interesting topics and I take pleasure in immersing myself in learning new and exciting areas 🙂 .</p>
 </div>
 
-
 <h3 align="left"><img src="https://media0.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif?cid=790b761106c1163a25a8c522fb54a964c22a1c8dc445e7a7&rid=giphy.gif&ct=s" width="30px"> &nbsp;Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e47dactu7thzxltrlogtfpdqn86dunzu7plf8nizdn5&rid=giphy.gif&ct=s" alt="html5" width="80" height="80"/> </a>
@@ -27,3 +26,9 @@
 <p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Chandan-Choudhury&show_icons=true&locale=en&theme=highcontrast" alt="Chandan-Choudhury" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Choudhury&theme=highcontrast" alt="Chandan-Choudhury" /></p>
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+
+![chandan's snake gif](https://github.com/Chandan-Choudhury/Chandan-Choudhury/blob/output/github-contribution-grid-snake.gif)
