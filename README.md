@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on : [OdiMeet](https://odimeet.vercel.app/)
+- 🔭 I’m currently working on : NotaLumos
 
 - 🌱 I’m currently learning : **Zod, Redis, Jest, Kubernetes, Hono, Kafka**
 
