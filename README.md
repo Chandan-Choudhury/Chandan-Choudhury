@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on : NotaLumos - An AI Note Generator App
+- 🔭 I’m currently working on : **NotaLumos - An AI Note Generator App**
 
 - 🌱 I’m currently learning : **Zod, Redis, Jest, Kubernetes, Hono, Kafka**
 
