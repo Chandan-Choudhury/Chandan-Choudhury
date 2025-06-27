@@ -1,0 +1,354 @@
+{
+  "personal": {
+    "name": "Chandan Choudhury",
+    "title": "Senior Software Engineer",
+    "tagline": "Building scalable web applications with modern technologies",
+    "headshot": "/Profile.webp",
+    "bio": "Passionate full-stack developer with 4+ years of experience building scalable web applications. Specialized in React, Node.js, Python and cloud technologies. I love solving complex problems and creating user-friendly solutions that make a real impact.",
+    "location": "Bengaluru, India",
+    "email": "hello@chandanchoudhury.in",
+    "linkedin": "https://www.linkedin.com/in/chandan0809/",
+    "github": "https://github.com/Chandan-Choudhury/",
+    "website": "https://chandanchoudhury.in"
+  },
+  "skills": [
+    {
+      "name": "JavaScript",
+      "category": "Frontend",
+      "icon": "Javascript"
+    },
+    {
+      "name": "TypeScript",
+      "category": "Frontend",
+      "icon": "Typescript"
+    },
+    {
+      "name": "React",
+      "category": "Frontend",
+      "icon": "React"
+    },
+    {
+      "name": "Next.js",
+      "category": "Frontend",
+      "icon": "Nextjs"
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "icon": "Tailwind"
+    },
+    {
+      "name": "Material UI",
+      "category": "Frontend",
+      "icon": "Materialui"
+    },
+    {
+      "name": "Bootstrap",
+      "category": "Frontend",
+      "icon": "Bootstrap"
+    },
+    {
+      "name": "Framer Motion",
+      "category": "Frontend",
+      "icon": "Motion"
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "icon": "Nodejs"
+    },
+    {
+      "name": "Express.js",
+      "category": "Backend",
+      "icon": "Expressjs"
+    },
+    {
+      "name": "Python",
+      "category": "Backend",
+      "icon": "Python"
+    },
+    {
+      "name": "FastAPI",
+      "category": "Backend",
+      "icon": "Fastapi"
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database",
+      "icon": "Mongodb"
+    },
+    {
+      "name": "DynamoDB",
+      "category": "Database",
+      "icon": "Dynamodb"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Database",
+      "icon": "Postgresql"
+    },
+    {
+      "name": "Redis",
+      "category": "Database",
+      "icon": "Redis"
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud",
+      "icon": "Aws"
+    },
+    {
+      "name": "Azure",
+      "category": "Cloud",
+      "icon": "Azure"
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps & Infrastructure",
+      "icon": "Docker"
+    },
+    {
+      "name": "NGINX",
+      "category": "DevOps & Infrastructure",
+      "icon": "Nginx"
+    },
+    {
+      "name": "Git",
+      "category": "Version Control",
+      "icon": "Git"
+    },
+    {
+      "name": "GitHub",
+      "category": "Version Control",
+      "icon": "Github"
+    },
+    {
+      "name": "GitHub Actions",
+      "category": "CI/CD",
+      "icon": "GithubActions"
+    },
+    {
+      "name": "Serverless Framework",
+      "category": "CI/CD",
+      "icon": "ServerlessFramework"
+    },
+    {
+      "name": "Jest",
+      "category": "Testing & Validation",
+      "icon": "Jest"
+    },
+    {
+      "name": "Zod",
+      "category": "Testing & Validation",
+      "icon": "Zod"
+    },
+    {
+      "name": "Postman",
+      "category": "Testing & Validation",
+      "icon": "Postman"
+    }
+  ],
+  "experience": [
+    {
+      "company": "ACL Digital",
+      "website": "https://www.acldigital.com/",
+      "role": "Senior Software Engineer",
+      "startDate": "2024-09",
+      "endDate": "present",
+      "location": "Bengaluru, India",
+      "description": [
+        "Lead the development of scalable enterprise web applications using React.js and Node.js",
+        "Design and deploy cloud-native architectures on AWS to ensure high availability and performance",
+        "Translate business requirements into clear technical specifications and deliver high-quality software",
+        "Collaborate with product, design, and QA teams to establish best practices and maintain code quality",
+        "Optimize application performance and maintain system reliability through proactive testing and monitoring"
+      ]
+    },
+    {
+      "company": "McKinley Rice",
+      "website": "https://mckinleyrice.com/",
+      "role": "Associate Fullstack Developer",
+      "startDate": "2023-10",
+      "endDate": "2023-10",
+      "location": "Remote",
+      "description": [
+        "Streamlined deployment workflows with GitHub Actions to optimize build, test, and release processes",
+        "Integrated Analytics into application to capture and analyze user interaction insights",
+        "Configured pre-commit hooks along with consistent formatting and linting to enforce code quality best practices"
+      ]
+    },
+    {
+      "company": "TheMathCompany",
+      "website": "https://mathco.com/",
+      "role": "Associate Product Engineer",
+      "startDate": "2022-12",
+      "endDate": "2023-07",
+      "location": "Remote",
+      "description": [
+        "Crafted dynamic, responsive SPAs with ReactJS using component-based architecture and state management",
+        "Developed and maintained RESTful APIs in Python FastAPI and Node.js, integrating PostgreSQL",
+        "Designed and implemented ETL pipelines in Azure Data Factory to streamline ingestion and integration of diverse data sources",
+        "Leveraged Databricks for advanced data processing and transformation to prepare data for analytics",
+        "Ensured end-to-end seamless user experience by bridging front-end interfaces with back-end data layers"
+      ]
+    },
+    {
+      "company": "Squbix Digital",
+      "website": "https://squbix.com/",
+      "role": "Software Developer",
+      "startDate": "2020-07",
+      "endDate": "2022-12",
+      "location": "Bhubaneswar, India",
+      "description": [
+        "Designed and implemented comprehensive software solutions across diverse tech ecosystems, spanning front-end and back-end development",
+        "Collaborated closely with stakeholders to deliver tailored applications that align with specific business requirements",
+        "Led the creation and maintenance of React-based front-end interfaces and Node.js, Express, Python back-end systems",
+        "Deployed scalable, reliable infrastructure on AWS using the Serverless Framework",
+        "Ensured a seamless end-to-end user experience by integrating the user interface with underlying data layers",
+        "Spearheaded CI/CD pipeline and automated testing initiatives, enhancing project quality and accelerating release cycles"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Data Explore Platform",
+      "description": "Full-stack data exploration platform with granular role-based access control, powerful filtering capabilities, and an intuitive admin dashboard for comprehensive data management.",
+      "technologies": [
+        "ReactJS",
+        "Node.js",
+        "Python",
+        "Serverless Framework",
+        "AWS",
+        "MSAL"
+      ],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Professional"
+    },
+    {
+      "title": "Automated Report Generation Platform",
+      "description": "A full-stack report generation platform featuring customizable dynamic input forms, a real-time status dashboard, and Generative AI-powered report creation and update capabilities.",
+      "technologies": ["ReactJS", "Python", "Generative AI", "AWS", "MSAL"],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Professional"
+    },
+    {
+      "title": "Account Lifecycle Management Application",
+      "description": "Comprehensive application for managing project accounts, revenue tracking, health checks, employee management, and more.",
+      "technologies": [
+        "ReactJS",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Chart.js"
+      ],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Professional"
+    },
+    {
+      "title": "Enterprise Analytics Marketplace",
+      "description": "A secure internal marketplace for enterprise datasets, enabling employees to browse, upload, download, and review datasets through an intuitive interface for analytics and data-driven insights.",
+      "technologies": [
+        "ReactJS",
+        "Node.js",
+        "Python",
+        "Serverless Framework",
+        "AWS"
+      ],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Professional"
+    },
+    {
+      "title": "Responsive Client Landing Page",
+      "description": "A modern, responsive landing page built with ReactJS and Styled Components, hosted on Firebase and enhanced with interactive React Simple Maps to showcase a client’s services, products, and portfolio.",
+      "technologies": [
+        "ReactJS",
+        "Styled Components",
+        "Firebase",
+        "React Simple Maps"
+      ],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Professional"
+    },
+    {
+      "title": "Self Sovereign Identity Management",
+      "description": "Scalable self-sovereign digital identity management platform. Built for scalability with serverless architecture.",
+      "technologies": [
+        "ReactJS",
+        "Node.js",
+        "Python",
+        "Serverless Framework",
+        "AWS"
+      ],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Professional"
+    },
+    {
+      "title": "SSID Applications",
+      "description": "Web and mobile applications for managing self-sovereign identities, eKYC, e-wallet, transactions, Pairwise verification, and more.",
+      "technologies": [
+        "React",
+        "React Native",
+        "Node.js",
+        "Serverless Framework",
+        "AWS",
+        "Blockchain"
+      ],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Professional"
+    },
+    {
+      "title": "Virtual Meeting Platform",
+      "description": "A full-stack virtual meeting platform with real-time video conferencing, chat, recording and screen sharing capabilities.",
+      "technologies": ["Next.js", "Tailwind CSS", "ClerkJS", "Shadcn/ui"],
+      "liveUrl": "",
+      "githubUrl": "",
+      "type": "Personal"
+    },
+    {
+      "title": "Weather Application",
+      "description": "A weather application that provides real-time weather updates and forecasts with map view.",
+      "technologies": [
+        "Next.js",
+        "Bootstrap 5",
+        "Sass",
+        "amCharts 5",
+        "open-meteo API"
+      ],
+      "liveUrl": "https://next-weather-cc.vercel.app/",
+      "githubUrl": "https://github.com/Chandan-Choudhury/next-weather",
+      "type": "Personal"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Biju Patnaik University of Technology, Odisha",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "startDate": "2016-08",
+      "endDate": "2020-12",
+      "gpa": "8.35"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Server-side Development with NodeJS, Express and MongoDB",
+      "issuer": "HongKong University of Science and Technology, Coursera",
+      "date": "2022-09",
+      "certificateUrl": "https://www.coursera.org/account/accomplishments/certificate/FHTUF2NTSXLH",
+      "credentialId": "FHTUF2NTSXLH"
+    },
+    {
+      "name": "AWS Cloud Technical Essentials",
+      "issuer": "Amazon Web Services, Coursera",
+      "date": "2023-02",
+      "certificateUrl": "https://www.coursera.org/account/accomplishments/certificate/UQ7P29EXFXW2",
+      "credentialId": "UQ7P29EXFXW2"
+    }
+  ]
+}
