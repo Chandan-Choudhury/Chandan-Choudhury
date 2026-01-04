@@ -4,7 +4,7 @@
     "title": "Senior Software Engineer",
     "tagline": "Building scalable web applications with modern technologies",
     "headshot": "/Profile.webp",
-    "bio": "Passionate full-stack developer with 4+ years of experience building scalable web applications. Specialized in React, Node.js, Python and cloud technologies. I love solving complex problems and creating user-friendly solutions that make a real impact.",
+    "bio": "Passionate full-stack developer with 5+ years of experience building scalable web applications. Specialized in React, Node.js, Python and cloud technologies. I love solving complex problems and creating user-friendly solutions that make a real impact.",
     "location": "Bengaluru, India",
     "email": "hello@chandanchoudhury.in",
     "linkedin": "https://www.linkedin.com/in/chandan0809/",
@@ -163,6 +163,19 @@
         "Translate business requirements into clear technical specifications and deliver high-quality software",
         "Collaborate with product, design, and QA teams to establish best practices and maintain code quality",
         "Optimize application performance and maintain system reliability through proactive testing and monitoring"
+      ]
+    },
+    {
+      "company": "Kanpri Technologies",
+      "website": "https://kanpritech.com/",
+      "role": "Senior Software Developer",
+      "startDate": "2023-10",
+      "endDate": "2024-09",
+      "location": "Remote",
+      "description": [
+        "Led a team of 3+ developers, mentoring juniors and ensuring timely delivery of multiple production-grade full-stack applications.",
+        "Developed a secure collaboration platform for clinical studies with role-based access and scheduling, streamlining pharma research workflows.",
+        "Contributed to building scalable systems with performance optimization across backend and frontend layers."
       ]
     },
     {
