@@ -94,6 +94,31 @@
       "icon": "Redis"
     },
     {
+      "name": "Langchain",
+      "category": "AI & LLMs",
+      "icon": "Langchain"
+    },
+    {
+      "name": "OpenAI",
+      "category": "AI & LLMs",
+      "icon": "OpenAI"
+    },
+    {
+      "name": "Claude",
+      "category": "AI & LLMs",
+      "icon": "Claude"
+    },
+    {
+      "name": "GitHub Copilot",
+      "category": "AI & LLMs",
+      "icon": "Copilot"
+    },
+    {
+      "name": "Ollama",
+      "category": "AI & LLMs",
+      "icon": "Ollama"
+    },
+    {
       "name": "AWS",
       "category": "Cloud",
       "icon": "Aws"
