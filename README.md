@@ -3,15 +3,13 @@
 
 ---
 
-- 🔭 I’m currently working on : **NotaLumos - An AI Note Generator App**
+- 🔭 I’m currently working on : **FastAPI Backend with Observability**
 
-- 🌱 I’m currently learning : **Zod, Redis, Jest, Kubernetes, Hono, Kafka**
+- 🌱 I’m currently learning : **Observability, Kubernetes, Kafka, System Design**
 
 - 👨‍💻 All of my projects are available at : [chandanchoudhury.in/about#projects](https://chandanchoudhury.in/about#projects)
 
 - 📝 I write articles on : [Medium](https://blogs.chandanchoudhury.in/)
-
-- 💬 Ask me about : **ReactJS, Next.js, Node.js**
 
 - 📫 How to reach me : **hello@chandanchoudhury.in**
 
